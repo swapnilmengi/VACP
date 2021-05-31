@@ -5,7 +5,7 @@
 
 **Tested on Powershell: *5.1***
 
-**License:'*GPLv2***
+**License: *'GPLv2'***
 
 **License URI: *http://www.gnu.org/licenses/gpl-2.0.html***
 
